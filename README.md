@@ -16,3 +16,6 @@ $ npm install <br/>
 $ npm start
 
 # 3. Install packages and MongoDB
+Start Mongodb server: <b>sudo ./mongod</b> <br/>
+Open another terminal, open MongoDB Shell: <b>mongod</b> <br/>
+On the Shell, <b>show dbs</b> to check the new database
