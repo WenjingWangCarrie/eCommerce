@@ -1,4 +1,4 @@
-# React & Node & MonDB - eCommerce
+# React & Node & MongoDB - eCommerce
 
 # 1. Run Backend
 Create Admin account first:  http://localhost:5000/api/users/createadmin
