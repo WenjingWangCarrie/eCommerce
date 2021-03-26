@@ -14,3 +14,5 @@ Open new terminal <br/>
 $ cd frontend <br/>
 $ npm install <br/>
 $ npm start
+
+# 3. Install packages and MongoDB
